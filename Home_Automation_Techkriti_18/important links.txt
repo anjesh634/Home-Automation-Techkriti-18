@@ -1,0 +1,5 @@
+http://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html
+https://gist.github.com/bbx10/5a2885a700f30af75fc5
+https://circuits4you.com/2016/12/16/esp8266-web-server-ap/
+https://startingelectronics.org/articles/GT-511C3-SDK-demo-arduino-uno/
+https://www.youtube.com/watch?v=Ao5XcORsYxA&feature=youtu.be
